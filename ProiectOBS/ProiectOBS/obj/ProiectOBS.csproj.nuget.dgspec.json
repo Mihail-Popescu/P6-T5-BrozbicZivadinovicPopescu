@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mihai\\source\\repos\\ProiectOBS\\ProiectOBS\\ProiectOBS.csproj": {}
+    "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\ProiectOBS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mihai\\source\\repos\\ProiectOBS\\ProiectOBS\\ProiectOBS.csproj": {
+    "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\ProiectOBS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mihai\\source\\repos\\ProiectOBS\\ProiectOBS\\ProiectOBS.csproj",
+        "projectUniqueName": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\ProiectOBS.csproj",
         "projectName": "ProiectOBS",
-        "projectPath": "C:\\Users\\mihai\\source\\repos\\ProiectOBS\\ProiectOBS\\ProiectOBS.csproj",
-        "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mihai\\source\\repos\\ProiectOBS\\ProiectOBS\\obj\\",
+        "projectPath": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\ProiectOBS.csproj",
+        "packagesPath": "C:\\Users\\www\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mihai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\www\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
