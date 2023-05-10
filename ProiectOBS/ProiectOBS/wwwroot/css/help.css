@@ -27,16 +27,15 @@
         font-size: 16px;
     }
 
-button.search-button {
-    background-color: purple;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer;
-}
-
+    .search-container button[type="submit"] {
+        background-color: purple;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+    }
 
 .button-container {
     display: flex;
@@ -72,8 +71,4 @@ button.search-button {
     display: none;
     color: red;
     margin-top: 10px;
-}
-
-.highlight {
-    background-color: yellow;
 }

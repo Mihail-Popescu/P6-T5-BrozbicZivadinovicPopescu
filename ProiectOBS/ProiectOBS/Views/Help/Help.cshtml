@@ -11,7 +11,7 @@
         <h1>Help</h1>
         <div class="search-container">
             <input type="text" placeholder="Search..." name="search" id="search-box">
-            <button type="button" class="search-button" onclick="search()">Search</button>
+            <button type="submit" class="search-button">Search</button>
         </div>
     </div>
     <div class="button-container">
@@ -25,7 +25,15 @@
             <p>Here are some frequently asked questions:</p>
             <ul>
                 <li>What is the bank's routing number?</li>
-                <p></p>
+                <p>
+                    Ye to misery wisdom plenty polite to as. Prepared interest proposal it he exercise. My wishing an in attempt ferrars. Visited eat you why service looking engaged. At place no walls hopes rooms fully in. Roof hope shy tore leaf joy paid boy. Noisier out brought entered detract because sitting sir. Fat put occasion rendered off humanity has.
+
+                    Son agreed others exeter period myself few yet nature. Mention mr manners opinion if garrets enabled. To an occasional dissimilar impossible sentiments. Do fortune account written prepare invited no passage. Garrets use ten you the weather ferrars venture friends. Solid visit seems again you nor all.
+
+                    Denote simple fat denied add worthy little use. As some he so high down am week. Conduct esteems by cottage to pasture we winding. On assistance he cultivated considered frequently. Person how having tended direct own day man. Saw sufficient indulgence one own you inquietude sympathize.
+
+                    Day handsome addition horrible sensible goodness two contempt. Evening for married his account removal. Estimable me disposing of be moonlight cordially curiosity. Delay rapid joy share allow age manor six. Went why far saw many knew. Exquisite excellent son gentleman acuteness her. Do is voice total power mr ye might round still.
+                </p>
                 <li>How do I reset my password?</li>
                 <li>What are the bank's hours of operation?</li>
             </ul>
@@ -34,58 +42,19 @@
             <h2>About</h2>
             <p>Learn more about our bank:</p>
             <ul>
-                <li><b>Our history</b> </li> <p></p>
-                <p>
-                    Our bank has a rich history dating back to the early 20th century. It was founded by a group of visionaries who saw the need for a strong and reliable financial institution in the community.
-                    <br /> <br />
-                    Over the years, our bank has grown and evolved to meet the changing needs of our customers. We've weathered economic downturns and celebrated periods of prosperity, but through it all, our commitment to providing excellent customer service has remained steadfast.
-                    <br /> <br />
-                    In recent years, we've expanded our reach to include online banking services, making it even easier for our customers to manage their finances on the go. Despite these changes, our core values have remained the same: integrity, honesty, and a dedication to helping our customers achieve their financial goals.
-                    <br /> <br />
-                    As we look to the future, we remain committed to serving our community with the same level of excellence that has defined us for more than a century. We're excited about what lies ahead and look forward to continuing to be a trusted partner to our customers for many years to come.
-                </p>
-                <p></p>
-                <li><b>Our mission and values</b></li>
-                <p></p>
-                <p>
-                    At our bank, we are committed to helping our customers achieve their financial goals. Our mission is to provide reliable and innovative financial solutions that empower individuals, families, and businesses to reach their full potential.
-                    <br /> <br />
-                    We believe that trust, integrity, and honesty are the cornerstones of our business. We strive to build long-lasting relationships with our customers based on mutual respect and trust.
-                    <br /> <br />
-                    In addition, we are committed to being responsible stewards of our community and the environment. We seek to make a positive impact in the communities we serve by supporting local organizations and initiatives that promote social and economic well-being.
-                    <br /> <br />
-                    At our bank, we are also committed to fostering a culture of diversity, equity, and inclusion. We believe that our differences make us stronger and that everyone deserves to be treated with respect and dignity.
-                    <br /> <br />
-                    Overall, our mission and values reflect our commitment to being a trusted partner to our customers and a responsible corporate citizen in the communities we serve.
-                </p>
-                <p></p>
-                <li><b>Our team</b></li>
-                <p></p>
-                <p>
-                    At our bank, we are proud to have a team of dedicated professionals who are committed to providing excellent customer service and helping our customers achieve their financial goals.
-                    <br /> <br />
-                    Our team is made up of experienced bankers, financial advisors, and support staff who bring a wealth of knowledge and expertise to the table. We believe that our people are our greatest asset, and we invest in their training and development to ensure that they are always up-to-date on the latest industry trends and best practices.
-                    <br /> <br />
-                    What sets our team apart is our passion for building relationships with our customers. We take the time to listen to their needs and goals, and we work closely with them to develop customized financial solutions that meet their unique needs.
-                    <br /> <br />
-                    In addition, we foster a culture of collaboration and teamwork within our organization. Our team members work together closely to ensure that our customers receive the highest level of service and that their financial needs are met in a timely and efficient manner.
-                    <br /> <br />
-                    Overall, our team is dedicated to providing exceptional service and helping our customers achieve financial success. We are proud to have such a talented and committed group of professionals on our team.
-                </p>
-                <p></p>
+                <li>Our history</li>
+                <li>Our mission and values</li>
+                <li>Our team</li>
             </ul>
         </div>
         <div id="contact" class="section">
             <h2>Contact</h2>
             <p>Get in touch with us:</p>
             <ul>
-                <li>Phone: +40-123-456-789</li>
+                <li>Phone: 123-456-7890</li>
                 <li>Email: info@bank.com</li>
-                <li>Address: 123 Main St, Anytown Xcountry</li>
+                <li>Address: 123 Main St, Anytown USA</li>
             </ul>
-        </div>
-        <div class="warning">
-            <p>No results found.</p>
         </div>
     </div>
     <script>
@@ -107,7 +76,7 @@
             var foundMatch = false;
             sections.forEach(function (section) {
                 var text = section.innerText.toLowerCase();
-                if (searchTerm && text.includes(searchTerm)) {
+                if (text.includes(searchTerm)) {
                     section.scrollIntoView({ behavior: 'smooth' });
                     section.classList.add('highlight');
                     setTimeout(function () {
@@ -123,10 +92,9 @@
             }
         }
 
-        document.querySelector('.search-button').addEventListener('click', function () {
+        searchBox.addEventListener('input', function () {
             search();
         });
     </script>
-
 </body>
 </html>
