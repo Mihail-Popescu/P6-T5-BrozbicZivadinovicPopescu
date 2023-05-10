@@ -10641,19 +10641,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\www\\.nuget\\packages\\": {}
+    "C:\\Users\\mihai\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\ProiectOBS.csproj",
+      "projectUniqueName": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\ProiectOBS.csproj",
       "projectName": "ProiectOBS",
-      "projectPath": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\ProiectOBS.csproj",
-      "packagesPath": "C:\\Users\\www\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\obj\\",
+      "projectPath": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\ProiectOBS.csproj",
+      "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
+      "outputPath": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\www\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mihai\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

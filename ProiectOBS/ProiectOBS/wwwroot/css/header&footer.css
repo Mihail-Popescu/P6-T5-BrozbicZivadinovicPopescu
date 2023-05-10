@@ -1,17 +1,29 @@
-﻿
-header {
+﻿.header {
     background-color: rebeccapurple;
-    color: white !important;
+    color: white;
     text-align: center;
     padding: 10px;
 }
 
-footer {
-    background-color: mediumpurple ;
+.footer {
+    position: relative !important; /* Changed from absolute to relative */
+    width: 100% !important;
+    background-color: mediumpurple;
     color: white !important;
-    text-align: center;
-    padding: 10px;
+    text-align: center !important;
+    padding: 10px !important;
+    margin-top: auto !important; /* Added margin-top: auto to push the footer to the bottom */
 }
+
+html, body {
+    height: 100%;
+}
+
 body {
-    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    flex: 1;
 }
