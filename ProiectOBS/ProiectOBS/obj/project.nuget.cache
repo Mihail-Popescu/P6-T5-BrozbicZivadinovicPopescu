@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ej2w1fTVmvHvYnZe4pBSByMn7pq0i7JS9vY1QiCUacKFibinzGYVawRdtS5ac1KkiNDyJf4kVKN8+cjcqpCrsg==",
+  "dgSpecHash": "epH5U6gAe8bPWVwWg52deq49cFjVYdBpg4WYNSFO5AKJAoI7lJOgIjod8pGZXM9JavGIWRxUueAR/MaFdRXfHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mihai\\source\\repos\\ProiectOBS\\ProiectOBS\\ProiectOBS.csproj",
+  "projectFilePath": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\ProiectOBS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mihai\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mihai\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
