@@ -1,0 +1,17 @@
+﻿
+header {
+    background-color: rebeccapurple;
+    color: white !important;
+    text-align: center;
+    padding: 10px;
+}
+
+footer {
+    background-color: mediumpurple;
+    color: white !important;
+    text-align: center;
+    padding: 10px;
+}
+body {
+    color: white;
+}
