@@ -12,7 +12,7 @@ using ProiectOBS.Data;
 namespace ProiectOBS.Migrations
 {
     [DbContext(typeof(ProiectOBSDbContext))]
-    [Migration("20230508131256_FirstMigration")]
+    [Migration("20230510211924_FirstMigration")]
     partial class FirstMigration
     {
         /// <inheritdoc />
@@ -81,7 +81,7 @@ namespace ProiectOBS.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("ActiveService");
+                    b.ToTable("Admin");
                 });
 
             modelBuilder.Entity("ProiectOBS.Models.Card", b =>
@@ -147,7 +147,7 @@ namespace ProiectOBS.Migrations
 
                     b.HasIndex("CardId");
 
-                    b.ToTable("Category");
+                    b.ToTable("Client");
                 });
 
             modelBuilder.Entity("ProiectOBS.Models.Deposit", b =>
@@ -166,7 +166,7 @@ namespace ProiectOBS.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Customer");
+                    b.ToTable("Deposit");
                 });
 
             modelBuilder.Entity("ProiectOBS.Models.Transactions", b =>
@@ -199,7 +199,7 @@ namespace ProiectOBS.Migrations
 
                     b.HasIndex("WithdrawalId");
 
-                    b.ToTable("Order");
+                    b.ToTable("Transactions");
                 });
 
             modelBuilder.Entity("ProiectOBS.Models.Transfer", b =>
@@ -229,7 +229,7 @@ namespace ProiectOBS.Migrations
 
                     b.HasIndex("ClientId");
 
-                    b.ToTable("OrderItem");
+                    b.ToTable("Transfer");
                 });
 
             modelBuilder.Entity("ProiectOBS.Models.Withdrawal", b =>
@@ -254,7 +254,7 @@ namespace ProiectOBS.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Product");
+                    b.ToTable("Withdrawal");
                 });
 
             modelBuilder.Entity("ProiectOBS.Models.Client", b =>

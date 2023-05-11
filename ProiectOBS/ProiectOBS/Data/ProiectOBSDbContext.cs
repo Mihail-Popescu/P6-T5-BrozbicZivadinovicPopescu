@@ -14,14 +14,14 @@ namespace ProiectOBS.Data
             _configuration = configuration;
         }
 
-        public DbSet<Admin> ActiveService { get; set; }
+        public DbSet<Admin> Admin { get; set; }
         public DbSet<Address> Address { get; set; }
         public DbSet<Card> Card { get; set; }
-        public DbSet<Client> Category { get; set; }
-        public DbSet<Deposit> Customer { get; set; }
-        public DbSet<Transactions> Order { get; set; }
-        public DbSet<Transfer> OrderItem { get; set; }
-        public DbSet<Withdrawal> Product { get; set; }
+        public DbSet<Client> Client { get; set; }
+        public DbSet<Deposit> Deposit { get; set; }
+        public DbSet<Transactions> Transactions { get; set; }
+        public DbSet<Transfer> Transfer { get; set; }
+        public DbSet<Withdrawal> Withdrawal { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

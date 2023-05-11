@@ -1,2 +1,32 @@
 ﻿body {
+    background-color: #FFFFFF;
+}
+
+button {
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+    button:hover {
+        background-color: purple;
+    }
+
+input[type="number"], input[type="text"] {
+    padding: 10px;
+    border: 2px solid purple;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+    input[type="number"]:invalid, input[type="text"]:invalid {
+        border-color: purple;
+    }
+
+.error {
+    color: red;
 }

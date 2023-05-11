@@ -12,20 +12,6 @@ namespace ProiectOBS.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "ActiveService",
-                columns: table => new
-                {
-                    Id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    Email = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Password = table.Column<string>(type: "nvarchar(max)", nullable: true)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_ActiveService", x => x.Id);
-                });
-
-            migrationBuilder.CreateTable(
                 name: "Address",
                 columns: table => new
                 {
@@ -47,6 +33,20 @@ namespace ProiectOBS.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "Admin",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Email = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Password = table.Column<string>(type: "nvarchar(max)", nullable: true)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Admin", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Card",
                 columns: table => new
                 {
@@ -62,7 +62,7 @@ namespace ProiectOBS.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "Customer",
+                name: "Deposit",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -72,11 +72,11 @@ namespace ProiectOBS.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Customer", x => x.Id);
+                    table.PrimaryKey("PK_Deposit", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
-                name: "Product",
+                name: "Withdrawal",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -88,11 +88,11 @@ namespace ProiectOBS.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Product", x => x.Id);
+                    table.PrimaryKey("PK_Withdrawal", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
-                name: "Category",
+                name: "Client",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -109,15 +109,15 @@ namespace ProiectOBS.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Category", x => x.Id);
+                    table.PrimaryKey("PK_Client", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Category_Address_AddressId",
+                        name: "FK_Client_Address_AddressId",
                         column: x => x.AddressId,
                         principalTable: "Address",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_Category_Card_CardId",
+                        name: "FK_Client_Card_CardId",
                         column: x => x.CardId,
                         principalTable: "Card",
                         principalColumn: "Id",
@@ -125,7 +125,7 @@ namespace ProiectOBS.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "OrderItem",
+                name: "Transfer",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -138,16 +138,16 @@ namespace ProiectOBS.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_OrderItem", x => x.Id);
+                    table.PrimaryKey("PK_Transfer", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_OrderItem_Category_ClientId",
+                        name: "FK_Transfer_Client_ClientId",
                         column: x => x.ClientId,
-                        principalTable: "Category",
+                        principalTable: "Client",
                         principalColumn: "Id");
                 });
 
             migrationBuilder.CreateTable(
-                name: "Order",
+                name: "Transactions",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -159,66 +159,66 @@ namespace ProiectOBS.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Order", x => x.Id);
+                    table.PrimaryKey("PK_Transactions", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Order_Category_ClientId",
+                        name: "FK_Transactions_Client_ClientId",
                         column: x => x.ClientId,
-                        principalTable: "Category",
+                        principalTable: "Client",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_Order_Customer_DepositId",
+                        name: "FK_Transactions_Deposit_DepositId",
                         column: x => x.DepositId,
-                        principalTable: "Customer",
+                        principalTable: "Deposit",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_Order_OrderItem_TransferId",
+                        name: "FK_Transactions_Transfer_TransferId",
                         column: x => x.TransferId,
-                        principalTable: "OrderItem",
+                        principalTable: "Transfer",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_Order_Product_WithdrawalId",
+                        name: "FK_Transactions_Withdrawal_WithdrawalId",
                         column: x => x.WithdrawalId,
-                        principalTable: "Product",
+                        principalTable: "Withdrawal",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_Category_AddressId",
-                table: "Category",
+                name: "IX_Client_AddressId",
+                table: "Client",
                 column: "AddressId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Category_CardId",
-                table: "Category",
+                name: "IX_Client_CardId",
+                table: "Client",
                 column: "CardId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Order_ClientId",
-                table: "Order",
+                name: "IX_Transactions_ClientId",
+                table: "Transactions",
                 column: "ClientId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Order_DepositId",
-                table: "Order",
+                name: "IX_Transactions_DepositId",
+                table: "Transactions",
                 column: "DepositId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Order_TransferId",
-                table: "Order",
+                name: "IX_Transactions_TransferId",
+                table: "Transactions",
                 column: "TransferId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Order_WithdrawalId",
-                table: "Order",
+                name: "IX_Transactions_WithdrawalId",
+                table: "Transactions",
                 column: "WithdrawalId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_OrderItem_ClientId",
-                table: "OrderItem",
+                name: "IX_Transfer_ClientId",
+                table: "Transfer",
                 column: "ClientId");
         }
 
@@ -226,22 +226,22 @@ namespace ProiectOBS.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "ActiveService");
+                name: "Admin");
 
             migrationBuilder.DropTable(
-                name: "Order");
+                name: "Transactions");
 
             migrationBuilder.DropTable(
-                name: "Customer");
+                name: "Deposit");
 
             migrationBuilder.DropTable(
-                name: "OrderItem");
+                name: "Transfer");
 
             migrationBuilder.DropTable(
-                name: "Product");
+                name: "Withdrawal");
 
             migrationBuilder.DropTable(
-                name: "Category");
+                name: "Client");
 
             migrationBuilder.DropTable(
                 name: "Address");
