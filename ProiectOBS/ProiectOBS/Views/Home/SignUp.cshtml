@@ -1,4 +1,5 @@
-﻿
+﻿using ProiectOBS.Models;
+using ProiectOBS.Repositories;
 @{
     ViewData["Title"] = "SignUp";
 }
@@ -6,12 +7,13 @@
 @{
     Layout = null;
 }
+@model Client;
 <link rel="stylesheet" href="/css/Signin.css">
 
 
 <body>
     <div class="container">
-        <form>
+       @* <form>
             <h1>Create Account</h1>
             <input type="text" id="name" name="name" placeholder="FirstName" required><br><br>
             <input type="text" id="lastname" name="lastname" placeholder="LastName" required><br><br>
@@ -20,6 +22,34 @@
             <input type="email" id="email" name="email" placeholder="Email" required><br><br>
             <input type="password" id="password" name="password" placeholder="Password" required><br><br>
             <button>Submit</button>
+        </form>*@
+        <form method="post">
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Surname" class="control-label"></label>
+                <input asp-for="Surname" class="form-control" />
+                <span asp-validation-for="Surname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PhoneNumber" class="control-label"></label>
+                <input asp-for="PhoneNumber" class="form-control" />
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary">Create Account</button>
         </form>
     </div>
 </body>
