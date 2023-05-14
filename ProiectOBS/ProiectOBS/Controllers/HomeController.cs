@@ -26,6 +26,14 @@ namespace ProiectOBS.Controllers
         {
             return View();
         }
+        public IActionResult AdminLogIn()
+        {
+            return View();
+        }
+        public IActionResult SignUp()
+        {
+            return View();
+        }
         public IActionResult LogIn()
         {
             return View();
