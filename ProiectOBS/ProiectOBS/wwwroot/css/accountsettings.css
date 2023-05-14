@@ -1,0 +1,26 @@
+﻿body {
+    display: flex;
+    flex-direction: column;/*
+    align-items: center;*/
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    align-items: center;
+    max-width: 400px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 12px;
+}
+
+label, input, button {
+    display: flex;
+    margin-bottom: 1px;
+}
+
+button {
+    margin-top: 20px;
+}
