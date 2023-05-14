@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\Pictures\\3_slide.png"
     },
     {
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\Pictures\\login_pozadina.png",
+      "PackagePath": "staticwebassets\\Pictures\\login_pozadina.png"
+    },
+    {
       "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\Pictures\\logo_1.png",
       "PackagePath": "staticwebassets\\Pictures\\logo_1.png"
     },

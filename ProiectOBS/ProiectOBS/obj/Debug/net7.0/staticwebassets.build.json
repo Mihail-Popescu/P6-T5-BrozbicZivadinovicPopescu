@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9lw5B1b8iEV+Zoq+M4NTbm8RYG4nZWclOGMR5a7j5Vk=",
+  "Hash": "ooUBYMELwL1rP/am2SG1J0fDcZKFgA2anJbO+ZCH2fU=",
   "Source": "ProiectOBS",
   "BasePath": "_content/ProiectOBS",
   "Mode": "Default",
@@ -1222,6 +1222,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Pictures\\3_slide.png"
+    },
+    {
+      "Identity": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\Pictures\\login_pozadina.png",
+      "SourceId": "ProiectOBS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\",
+      "BasePath": "_content/ProiectOBS",
+      "RelativePath": "Pictures/login_pozadina.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\login_pozadina.png"
     },
     {
       "Identity": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\Pictures\\logo_1.png",
