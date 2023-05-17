@@ -12,7 +12,7 @@ using ProiectOBS.Data;
 namespace ProiectOBS.Migrations
 {
     [DbContext(typeof(ProiectOBSDbContext))]
-    [Migration("20230510211924_FirstMigration")]
+    [Migration("20230517153751_FirstMigration")]
     partial class FirstMigration
     {
         /// <inheritdoc />
