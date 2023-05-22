@@ -3,6 +3,7 @@
 <head>
     <title>Transactions</title>
     <link rel="stylesheet" type="text/css" href="~/css/transactions.css" />
+    <script> </script>
 </head>
 
 <div>
@@ -11,7 +12,7 @@
 <div>
     <h2>Deposit</h2>
     <button id="depositBtn">Deposit</button>
-    <form id="depositForm" style="display:none;">
+    <form id="depositForm" style="display:none;" action="/Transactions/Deposit" method="post">
         <label for="depositAmount">Amount:</label>
         <input type="number" id="depositAmount" name="depositAmount"><br>
         <button type="submit">Submit</button>
@@ -22,7 +23,7 @@
 <div>
     <h2>Withdraw</h2>
     <button id="withdrawBtn">Withdraw</button>
-    <form id="withdrawForm" style="display:none;">
+    <form id="withdrawForm" style="display:none;" action="/Transactions/Withdraw" method="post">
         <label for="withdrawBank">Bank:</label>
         <input type="text" id="withdrawBank" name="withdrawBank"><br>
         <label for="withdrawAmount">Amount:</label>
@@ -35,7 +36,7 @@
 <div>
     <h2>Transfer</h2>
     <button id="transferBtn">Transfer</button>
-    <form id="transferForm" style="display:none;">
+    <form id="transferForm" style="display:none;" action="/Transactions/Transfer" method="post">
         <label for="transferRecipient">Recipient:</label>
         <input type="text" id="transferRecipient" name="transferRecipient"><br>
         <label for="transferIBAN">IBAN:</label>

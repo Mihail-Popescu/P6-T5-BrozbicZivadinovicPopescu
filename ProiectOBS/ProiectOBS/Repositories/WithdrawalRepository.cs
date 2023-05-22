@@ -13,11 +13,6 @@ namespace ProiectOBS.Repositories
             _context = context;
         }
 
-        public IEnumerable<Withdrawal> GetWithdrawalsByClientId(int clientId)
-        {
-            return _context.Withdrawal.Where(w => w.Id == clientId).ToList();
-        }
-
         public void Add(Withdrawal withdrawal)
         {
             withdrawal.Date = DateTime.Now;

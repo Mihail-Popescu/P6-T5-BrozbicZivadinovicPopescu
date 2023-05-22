@@ -12,10 +12,6 @@ namespace ProiectOBS.Repositories
         {
             _context = context;
         }
-        public IEnumerable<Transfer> GetTransfersByClientId(int clientId)
-        {
-            return _context.Transfer.Where(t => t.Id == clientId || t.ClientId1 == clientId).ToList();
-        }
         public void Add(Transfer transfer)
         {
             transfer.Date = DateTime.Now;

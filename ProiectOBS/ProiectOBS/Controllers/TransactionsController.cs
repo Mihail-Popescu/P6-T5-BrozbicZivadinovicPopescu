@@ -14,6 +14,7 @@ namespace ProiectOBS.Controllers
         }
         public IActionResult Transactions(int clientId)
         {
+            clientId = 1;
             var accountBalance = _transactionsService.GetAccountBalance(clientId);
 
             var Client = new Client { Id = clientId, Balance = accountBalance };
@@ -22,30 +23,33 @@ namespace ProiectOBS.Controllers
         }
 
         [HttpPost]
-        public IActionResult Deposit([FromForm] int clientId, [FromForm] int amount)
+        public IActionResult Deposit([FromForm] int clientId , [FromForm] int depositAmount)
         {
-            _transactionsService.AddDeposit(clientId, amount);
+            clientId = 1;
+            _transactionsService.AddDeposit(clientId, depositAmount);
 
             // Redirect back to the Transactions page or any other desired page
-            return RedirectToAction("Index", new { clientId });
+            return RedirectToAction("Transactions");
         }
 
         [HttpPost]
-        public IActionResult Withdraw([FromForm] int clientId, [FromForm] string bank, [FromForm] int amount)
+        public IActionResult Withdraw([FromForm] int clientId, [FromForm] string withdrawBank, [FromForm] int withdrawAmount)
         {
-            _transactionsService.AddWithdrawal(clientId, bank, amount);
+            clientId = 1;
+            _transactionsService.AddWithdrawal(clientId, withdrawBank, withdrawAmount);
 
             // Redirect back to the Transactions page or any other desired page
-            return RedirectToAction("Index", new { clientId });
+            return RedirectToAction("Transactions");
         }
 
         [HttpPost]
-        public IActionResult Transfer([FromForm] int clientId, [FromForm] int recipient, [FromForm] int iban, [FromForm] int amount)
+        public IActionResult Transfer([FromForm] int clientId, [FromForm] int transferRecipient, [FromForm] int transferIBAN, [FromForm] int transferAmount)
         {
-            _transactionsService.AddTransfer(clientId, recipient, iban, amount);
+            clientId = 1;
+            _transactionsService.AddTransfer(clientId, transferRecipient, transferIBAN, transferAmount);
 
             // Redirect back to the Transactions page or any other desired page
-            return RedirectToAction("Index", new { clientId });
+            return RedirectToAction("Transactions");
         }
     }
 }

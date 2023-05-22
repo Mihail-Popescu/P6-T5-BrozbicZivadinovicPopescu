@@ -13,11 +13,6 @@ namespace ProiectOBS.Repositories
             _context = context;
         }
 
-        public IEnumerable<Deposit> GetDepositsByClientId(int clientId)
-        {
-            return _context.Deposit.Where(d => d.Id == clientId).ToList();
-        }
-
         public void Add(Deposit deposit)
         {
             deposit.Date = DateTime.Now;
