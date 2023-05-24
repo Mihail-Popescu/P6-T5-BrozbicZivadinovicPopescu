@@ -1,299 +1,299 @@
 {
   "Files": [
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ProiectOBS.bundle.scp.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ProiectOBS.bundle.scp.css",
       "PackagePath": "staticwebassets\\ProiectOBS.bundle.scp.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\Pictures\\1_slide.png",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\Pictures\\1_slide.png",
       "PackagePath": "staticwebassets\\Pictures\\1_slide.png"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\Pictures\\2_slide.png",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\Pictures\\2_slide.png",
       "PackagePath": "staticwebassets\\Pictures\\2_slide.png"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\Pictures\\3_slide.png",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\Pictures\\3_slide.png",
       "PackagePath": "staticwebassets\\Pictures\\3_slide.png"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\Pictures\\login_pozadina.png",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\Pictures\\login_pozadina.png",
       "PackagePath": "staticwebassets\\Pictures\\login_pozadina.png"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\Pictures\\logo_1.png",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\Pictures\\logo_1.png",
       "PackagePath": "staticwebassets\\Pictures\\logo_1.png"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\Pictures\\logo_2.png",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\Pictures\\logo_2.png",
       "PackagePath": "staticwebassets\\Pictures\\logo_2.png"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\Pictures\\logo_3.png",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\Pictures\\logo_3.png",
       "PackagePath": "staticwebassets\\Pictures\\logo_3.png"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\css\\Signin.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\css\\Signin.css",
       "PackagePath": "staticwebassets\\css\\Signin.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\css\\accountsettings.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\css\\accountsettings.css",
       "PackagePath": "staticwebassets\\css\\accountsettings.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\css\\header&footer.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\css\\header&footer.css",
       "PackagePath": "staticwebassets\\css\\header&footer.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\css\\help.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\css\\help.css",
       "PackagePath": "staticwebassets\\css\\help.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\css\\home.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\css\\home.css",
       "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\css\\transactions.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\css\\transactions.css",
       "PackagePath": "staticwebassets\\css\\transactions.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\ProiectOBS\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\www\\Documents\\GitHub\\P6-T5-BrozbicZivadinovicPopescu\\ProiectOBS\\ProiectOBS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
