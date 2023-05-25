@@ -9,61 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProiectOBS
 build_property.RootNamespace = ProiectOBS
-build_property.ProjectDir = C:\Users\www\Documents\GitHub\P6-T5-BrozbicZivadinovicPopescu\ProiectOBS\ProiectOBS\
+build_property.ProjectDir = D:\ProiectOBS\P6-T5-BrozbicZivadinovicPopescu\ProiectOBS\ProiectOBS\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\www\Documents\GitHub\P6-T5-BrozbicZivadinovicPopescu\ProiectOBS\ProiectOBS
+build_property.MSBuildProjectDirectory = D:\ProiectOBS\P6-T5-BrozbicZivadinovicPopescu\ProiectOBS\ProiectOBS
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/www/Documents/GitHub/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Help/Help.cshtml]
+[D:/ProiectOBS/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Help/Help.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVscFxIZWxwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/www/Documents/GitHub/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Home/AccountSettings.cshtml]
+[D:/ProiectOBS/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Home/AccountSettings.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2NvdW50U2V0dGluZ3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/www/Documents/GitHub/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Home/AdminLogIn.cshtml]
+[D:/ProiectOBS/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Home/AdminLogIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkxvZ0luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/www/Documents/GitHub/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Home/Index.cshtml]
+[D:/ProiectOBS/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/www/Documents/GitHub/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Home/LogIn.cshtml]
+[D:/ProiectOBS/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Home/LogIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dJbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/www/Documents/GitHub/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Home/Privacy.cshtml]
+[D:/ProiectOBS/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/www/Documents/GitHub/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Home/SignUp.cshtml]
+[D:/ProiectOBS/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Home/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/www/Documents/GitHub/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Shared/Error.cshtml]
+[D:/ProiectOBS/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/www/Documents/GitHub/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/ProiectOBS/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/www/Documents/GitHub/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Transactions/Transactions.cshtml]
+[D:/ProiectOBS/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Transactions/Transactions.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXFRyYW5zYWN0aW9ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/www/Documents/GitHub/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/_ViewImports.cshtml]
+[D:/ProiectOBS/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/www/Documents/GitHub/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/_ViewStart.cshtml]
+[D:/ProiectOBS/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/www/Documents/GitHub/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Shared/_Layout.cshtml]
+[D:/ProiectOBS/P6-T5-BrozbicZivadinovicPopescu/ProiectOBS/ProiectOBS/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ccase8rln5
