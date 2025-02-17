@@ -1,4 +1,4 @@
-## About  
+## Overview  
 This project was developed as a semester project for the **"Utilizarea Bazelor de Date"** (Using Databases) course. It was created by a team of three and focuses on simulating a **distributed banking transaction system** ("Sistem informatic distribuit pentru tranzacții bancare"). Each team member contributed by developing different pages and functionalities of the web application.  
 
 ## Requirements  
